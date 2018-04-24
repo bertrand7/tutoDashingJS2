@@ -1,0 +1,13 @@
+#----- Installation @angular :
+# -g pour global (pas uniquement le répertoire/projet courant.)
+npm install -g @angular/cli
+
+#----- créer un projet
+ng new <nomProjet>
+
+#----- lancer un projet 
+ng serve
+
+#########################################
+###    LE GIT FLOW              #########
+#########################################
